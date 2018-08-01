@@ -25,3 +25,6 @@ hs_err_pid*
 # Additional Ignores
 .idea
 */target/*
+.classpath
+.project
+.settings/
